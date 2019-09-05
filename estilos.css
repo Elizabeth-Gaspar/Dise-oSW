@@ -1,5 +1,5 @@
 body {/*representa un grupo de ayudas introductorias o de navegación.*/
-	background-image: url("/home/eli/Documentos/Diseño_de_SW/img1.jpg");/*éste selecciona la img de fondo de un elemento*/
+	background-image: url("img1.jpg");/*éste selecciona la img de fondo de un elemento*/
 }
 html, body {
 	height: 100%; /*altura de un elemento*/
